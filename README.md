@@ -1,4 +1,4 @@
-# Algonive Task-2 Sales Analysis & Forecasting
+# Sales Analysis & Forecasting
 
 ## Folder Structure
 
@@ -17,7 +17,6 @@
 This project analyzes historical retail sales data to uncover trends, patterns, and insights that help businesses make informed decisions.  
 It also includes basic sales forecasting and an interactive Power BI dashboard.
 
-This project is completed as part of the **Algonive Data Analytics Internship – Task-2**.
 
 ---
 
@@ -135,4 +134,4 @@ By combining Python analysis with Power BI visualization, meaningful trends were
 
 ## 👤 Author
 **Aditya Raju Puri**  
-Data Analytics Intern – Algonive
+**Data Analytics**
